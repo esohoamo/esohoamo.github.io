@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esohoamo.github.io/hKn/sitemap_index.txt
+Sitemap: https://esohoamo.github.io/hWg/sitemap_index.txt
+Sitemap: https://esohoamo.github.io/viO/sitemap_index.txt
+Sitemap: https://esohoamo.github.io/wTt/sitemap_index.txt
